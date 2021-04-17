@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+
+.container__row  a{
+  text-decoration: none; 
+  color: white;
+}
+
+.container__row a:hover{
+  text-decoration: underline;
+}
